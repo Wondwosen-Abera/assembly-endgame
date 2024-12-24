@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="./screenshots/Screenshot-1.png" width="400" />
-  <img src="./screenshots/Screenshot-2.png" width="400" />
-  <img src="./screenshots/Screenshot-3.png" width="400" />
-</p>
-
 ## Assembly: Endgame - A Word-Guessing Adventure! 🎮
+
+<p align="center">
+  <img src="./screenshots/Screenshot-1.png" width="200" />
+  <img src="./screenshots/Screenshot-2.png" width="200" />
+  <img src="./screenshots/Screenshot-3.png" width="200" />
+</p>
 
 🌟 Welcome to Assembly: Endgame, a fun and challenging word-guessing game where every wrong guess gets you closer to Assembly—the ultimate boss language! <br />
 🚀 Created as part of my React learning journey on Scrimba, this project blends coding, strategy, and fun into one thrilling experience. 🎉 <br />
