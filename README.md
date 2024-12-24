@@ -11,7 +11,7 @@
 
 <h2>🌐 Play the Game</h2>
 
-🎮 Play Assembly: Endgame [Online](https://tenziesgameplay.netlify.app/).
+🎮 Play Assembly: Endgame [Online](https://assemblyendgame.netlify.app/).
 
 <h2>🔥 Features</h2>
 
